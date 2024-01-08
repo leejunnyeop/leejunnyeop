@@ -1,16 +1,27 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=junnyeop's%20GitHub%20👋&fontSize=70)
 
-<!--
-**leejunnyeop/leejunnyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi
+안녕하세요. 도전하는 백엔드 개발자 이준엽 입니다.🙇‍♂️ 
 
-Here are some ideas to get you started:
+## 🧑‍🎓 University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SoongsilUniversity - 산업정보시스템공학과
+
+## 👨‍💻 activity
+
+- 잇타 4기 백엔드 (2023 9월~ 2024년 1월)
+- 코드스테이츠 장학 백엔드 (2023년 1월 15일 ~)
+
+
+## Skill Stack
+프레임워크
+- spring boot
+
+구성 
+3. JPA
+4. Query DSL
+5. Security
+6. Aop
+
+
+
