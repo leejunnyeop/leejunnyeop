@@ -17,11 +17,6 @@ SoongsilUniversity - 산업정보시스템공학과
 프레임워크
 - spring boot
 
-구성 
-3. JPA
-4. Query DSL
-5. Security
-6. Aop
 
 
 
