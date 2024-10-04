@@ -23,6 +23,7 @@ SoongsilUniversity - 산업정보시스템공학과
   기간 | 내용 |직군 |저장소|
 |    :---:    |     :---:      |    :---:    |    :---:    |
 | 2023년9월 ~ 2024년1월   | 포트폴리오 참삭 매칭 서비스 | spring 백엔드   |[잇타저장소](https://github.com/leejunnyeop/How-is-it.git)|
+| 2024년 9월 중순         |  복용 시간 맞춤 서비스      | spring 백엔드   | 베스트 팀워크 수상
 
 
 
