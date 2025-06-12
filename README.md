@@ -11,29 +11,48 @@ SoongsilUniversity - 산업정보시스템공학과
 ## 👨‍💻 activity
 
 동아리 :
-- 
+- UMC 4기(2023 03월 ~ 2023년 9월)
 - 잇타 4기 백엔드 (2023 9월~ 2024년 1월)
 - SSCC ( 2024년 1학기 , 코딩테스트 백준 문제 풀기 활동)
+- 코테이토 백엔드 2024년 1학기
+- ACC Soongsil 3기
 
 공모전 :
 -
-- 사회문제 해결 아이디어톤 공모전
-- 블레이버스 해커톤 ( 2024 7월 중순, 치매노인 알약 복용 알람 구현)
-- 한이음 공모전 ( 2024년 3월 ~ 12월, NFT 와 강아지 비문으로 유실강아지 찾기)
-- 관광 API 활용한 앱개발 ( 2024 5월 ~ 12월, 부산 여행지 추천 서비스)
-  
 
-## Profile
+2024 Chat GPT(챗GPT) 아이디어 공모전 
+사회기반문제를 해결하는 공모전으로써, 세대갈 등 문제해결을 위해 아이디어 제한
 
-[나의 포트폴리오](https://www.notion.so/Junnyeop-portfolio-eae36a75834f4fe3bc7ecf86d2d4e90d?pvs=4)
+한이음 공모전
+NFT와 비문을 활용한 유실견 찾아주는 서비스 
 
-## Project
+한국관광공사 x 카카오 2024 관광데이터 활용 
+관광 api 활용한 관광어플제작
 
-  기간 | 내용 |직군 |저장소|
-|    :---:    |     :---:      |    :---:    |    :---:    |
-| 2023년9월 ~ 2024년1월   | 포트폴리오 참삭 매칭 서비스 | spring 백엔드   |[잇타저장소](https://github.com/leejunnyeop/How-is-it.git)|
-| 2024년 7월 중순         |  복용 시간 맞춤 서비스      | spring 백엔드   | 베스트 팀워크 수상
-| 2024 년 3월 ~ 12월       |    비문으로 유실강아지 찾기 | Spsing         |  입선
+블레이버스 해커톤 
+치매노인을 위한 복용 알람 서비스
+
+Ne(O) redinary HACKATHON
+우리가 실천 할 수 있는 ESG
+
+
+## 스킬
+
+💻 Backend
+Java, Spring Boot, Spring Security
+
+JPA, QueryDSL
+🗄️ Database / Storage
+MySQL, PostgreSQL
+Redis, MongoDB
+☁️ Infrastructure & DevOps
+AWS (SAA 자격 취득 준비 중)
+
+🧠 Machine Learning
+전공 기반 머신러닝 이론 및 모델링 경험
+Python, Scikit-learn, XGBoost, K-means등 활용
+학부 프로젝트 및 데이터 분석 실습 다수 수행
+
 
 
 
