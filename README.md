@@ -40,8 +40,8 @@ Ne(O) redinary HACKATHON
 
 💻 Backend
 Java, Spring Boot, Spring Security
-
 JPA, QueryDSL
+
 🗄️ Database / Storage
 MySQL, PostgreSQL
 Redis, MongoDB
